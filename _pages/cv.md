@@ -24,30 +24,47 @@ redirect_from:
   <span><em>GRE:</em> <strong>166</strong>(V), <strong>170</strong> (Q)</span>
 </div>
 
+<br>
 
 # Experience
 
-- <div style="display: flex; justify-content: space-between; width: 100%;">
-    <span>AI reconstruction of surgical images to improve safety</span>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <span>Graduate Research Assistant, Shickel Group, UF College of Medicine, IC3 Center</span>
+    <span>(Spring 2024-Current)</span>
+  </div>
+- Researches AI clinical decision support tools to improve clincal workflows
+- Develops software on UF's HiPerGator supercomputer
+- Maintains evolving codebase for using LLMs (Llama3.1) for chart review projects in a privacy-first method
+- Creates algorithms for autonomously monitoring tool use on scrub nurse table in operating room
+- Securely handles patient data from institutional data banks from UF Health\
+
+<br>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <span>Graduate Research Assistant, Zarrinpar Group, UF College of Medicine, Surgery</span>
     <span>(Fall 2021-Current)</span>
   </div>
-  - Created AI model to highlight common bile duct during laparoscopic cholecystectomy surgery
-  - Implemented pipeline using CycleGAN for image-to-image translation from whitelight imaging to fluorescent imaging
+- Pioneers use of unsupervised AI vision models to improve surgical safety
+- Created AI model to highlight common bile duct during laparoscopic cholecystectomy surgery
+- Implemented pipeline using CycleGAN for image-to-image translation from whitelight imaging to fluorescent imaging
 
-- <div style="display: flex; justify-content: space-between; width: 100%;">
-    <span>Autonomous Joint Tracking on Native Knees (Master's thesis project)</span>
-    <span>(Fall 2021-Summer 2023)</span>
+<br>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <span>Graduate Research Assistant, Banks Group, UF College of Biomedical Engineering</span>
+    <span>(Summer 2021-Summer 2023)</span>
   </div>
-  - Created a deep learning-based system to predict joint kinematics in native (no implant) knee joints
-  - We used canine stifle (knee joint) images taken during treadmill walking fluoroscopy trials
-  - I implemented a keypoint estimator deep neural network using ResNet with PyTorch Lightning, trained on HiPerGator, UF's supercomputer
+- Created next-generation orthopedic diagnostics using artificial intelligence
+- Developed deep learning-based system to predict joint kinematics in native (no implant) knee joints
+- Implemented a keypoint estimator deep neural network using ResNet with PyTorch Lightning, trained on HiPerGator, UF's supercomputer
+- Collaborated with teams in three countries and multiple departments
 
-- <div style="display: flex; justify-content: space-between; width: 100%;">
-    <span>Segmentation of enteric fistulae</span>
+<br>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <span>Graduate Research Assistant, Zimmermann Group, Shao Group, UF College of Medicine</span>
     <span>(Fall 2022-Summer 2023)</span>
   </div>
   - Created MONAI deep learning pipeline to segment small abdominal fistulae from patients with Crohn's Disease
 
+<br>
 # Skills
 - Computer Vision with PyTorch, PyTorch Lightning
 - HPC, SLURM, SSH, Containers
