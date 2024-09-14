@@ -36,7 +36,7 @@ redirect_from:
 - Develops software on UF's HiPerGator supercomputer
 - Maintains evolving codebase for using LLMs (Llama3.1) for chart review projects in a privacy-first method
 - Creates algorithms for autonomously monitoring tool use on scrub nurse table in operating room
-- Securely handles patient data from institutional data banks from UF Health\
+- Securely handles patient data from institutional data banks from UF Health
 
 <br>
 <div style="display: flex; justify-content: space-between; width: 100%;">
