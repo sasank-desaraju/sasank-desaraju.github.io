@@ -89,8 +89,9 @@ redirect_from:
   {% endfor %}</ul>
   
 # Service and leadership
-- Medical Artificial Intelligence Interest Group (MAIIG), UF College of Medicine, President
-- American Physician Scientist Association (APSA), UF College of Medicine, President
+- Website Operations Co-Chair, American Physician Scientist Association (APSA), 2025-2026
+- President, American Physician Scientist Association (APSA) Local Chapter, UF College of Medicine, 2024-present
+- President, Medical Artificial Intelligence Interest Group (MAIIG), UF College of Medicine, 2024-2025
 
 # Hobbies
 - Rubik's cube solving
