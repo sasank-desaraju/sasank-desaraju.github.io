@@ -26,6 +26,11 @@ redirect_from:
 
 <br>
 
+# Publications
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 # Experience
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
@@ -65,22 +70,9 @@ redirect_from:
   - Created MONAI deep learning pipeline to segment small abdominal fistulae from patients with Crohn's Disease
 
 <br>
-# Skills
-- Computer Vision with PyTorch, PyTorch Lightning
-- HPC, SLURM, SSH, Containers
-    - I use UF's supercomputer, HiPerGator, which uses SLURM
-    - HiPerGator uses Apptainer/Singularity containers, which are similar to Docker
-- Linux, NeoVim, Tmux
-- R, RStudio
-
-# Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 # Talks
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv-minimal.html  %}
   {% endfor %}</ul>
   
 # Teaching

@@ -21,3 +21,11 @@ Man, it would be cool to have little fishes swimming around in a Frutiger Aero a
     - Add some talks: COR 2025, BME Pruitt Day (wow this was also Op Note paper. Does it look bad that I'm dragging this so much)
     - COR Research Award! Oberndorf Scholarship!
     - Add APSA WebOps
+
+11/06:
+- I deleted the Skills section of CV and moved something around in there
+- I also made the talks appear more streamlined in the CV
+
+Next:
+- [ ] Add Marimo Stats teaching as a page
+- [ ] Write Torii post
