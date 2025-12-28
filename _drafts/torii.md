@@ -105,17 +105,28 @@ So typically you try to "understand" the slides for a bit but then you just star
 (Duh!)
 We're basically beaming knowledge into our heads with Factoid Peekaboo for hours every day because there's not a better way to learn this stuff.
 
+There's another adjunct we use for remembering constellations of related information is called Sketchy.
+It turns out, during our extensive hunter-gatherer past, humans evolved to [memorize familiar spatial environments](https://en.wikipedia.org/wiki/Method_of_loci) and the relationships of objects within.
+This "mind palace" method was featured in BBC's Sherlock and is used in blind-folded Rubik's cube solving. (I wish I had pic of me)
+A company named Sketchy creates animated videos where they sketch out a memorable scene where the characters and actions represent properties of a bacteria, the clinical signs of a disease, or the mechanism of an cancer drug.
 
-I've complained about medical knowledge enough by now, so we can move on to the payoff.
+I've listed my grievances about medical knowledge enough by now, so we can move on to the payoff.
 
-It's very annoying to remember that aspirin must be avoided in children due to risk of Reye syndrome unless they have a blood vessel disease known as Kawasaki disease (not that other blood vessel disease called Takayasu arteritis, of course).
+It's inconvenient to remember that aspirin must be avoided in children due to risk of Reye syndrome unless they have a blood vessel disease known as Kawasaki disease (not that other blood vessel disease called Takayasu arteritis, of course).
 However, this becomes far less of a bother when a concerned parent has brought in their feverish toddler with skin peeling from their fingers and they both look to you for help.
 Then, it's not so bad that there's a funny name here or an exception there.
-In fact, I'm glad that someone noticed this disease and studied it to create a protocol that I can use to help this young child.
-I'm glad studies were done to understand the epidemiology of Kawasaki disease, or how often it occurs, so that I *get to* memorize that it affects ~20 out of 100,000 children.
+In fact, I'm *glad* that someone noticed this disease and studied it to create a protocol that I can use to help this young child.
+I'm *glad* studies were done to understand the epidemiology of Kawasaki disease, or how often it occurs, so that I *get to* memorize that it affects ~20 out of 100,000 children.
 
 
 
+When you see a patient with congestive heart failure, you typically check the swelling on their shin by seeing how long the "pit" lasts after you press a finger into their shin (pitting edema).
+There is a scale of pitting edema depending on how long the indentation lasts before going away.
+The details of this, memorized during medical school, become muscle memory as you are focused on the patient, how his meds have been doing, if he's been able to take all of his doses, how his grandson wants to go hiking over summer break, and if he could stop taking the water pill for a few days then.
+
+I could make a blurb about Sketchy and how we need to use that, and maybe this can talk about C. dif diarrhea and how we memorize a chocolate fountain for it.
+
+There's a bacteria called *Clostridioides difficile*, which patients sometimes catch in the hospital 
 
 
 It seems understanding abstruse biochemical pathways is a prerequisite to helping a child with a genetic metabolic disease, and that is surely a Sacred endeavor.
