@@ -40,7 +40,7 @@ Okay, my thinking was about the surprising sacredness of medical knowledge and m
 ![Tori-i Gate](images/torii-1.jpg)
 
 > This is a *tori-i* gate, often seen in front of Japanese Shinto temples.
-> It represents the boundary between the Sacred world inside the temple and the Profane world outside.
+> It represents the boundary between the Sacred world of the temple and the Profane world outside.
 
 
 When I started college, I didn't know what I wanted to do, so I pursued physics and mathematics.
@@ -58,7 +58,7 @@ The geometry of vector calculus.
 The rigid creativity of formal logic and mathematical proofs.
 The magic of partial differentials in Thermodynamics.
 Fourier transforms and Louiville's theorem.
-The unabashed nessecity (?) of Electrodynamics.
+The seamless inevitability of Electrodynamics.
 The formless shapes of Abstract Algebra.
 
 The laws and formulae I learned guided the motion of the tiniest particle and largest galaxy along with every school bus, egret, lodestone, Cambodian, silicon wafer, Barbie doll, bacteriophage, and Chicago deep dish pizza in history.
@@ -75,46 +75,51 @@ We had [mnemonic](https://www.merriam-webster.com/dictionary/mnemonic) devices t
 
 
 
-And don't get me started on the naming - some squiggly little thing was misrecognized as something else a good 50 years ago and we all were stuck with the baggage
+And don't get me started on the naming - some squiggly little thing was misrecognized as some other wiggle a good 50 years ago and we all were stuck with the baggage.
 
 Compared to the elegant, universal laws of my college concentrations, memorizing the names of bacteria (or that "G-protein coupled receptors" had specifically *7* transmembrane domains) was *woefully* pedestrian.
 Profane.
 
 
-
 Alas, as I neared the end of my undergraduate, I ended up steering towards medical school.
-I respected the work my physics professors did.
-While they were definitely pushing our understanding of the physical world around us, though, the niche topics they focused on felt a bit too distant from the real-world challenges around me.
-I wanted my impact to be in a more person-facing role, even if that meant giving up any chance to invent nuclear fusion or room temperature superconductivity or some other technology that would have far more postive impact than an individual clinician could.
+My physics professors made real contributions to the wealth of human knowledge, specifically towards technologies that would have huge positive impacts for society, such as room-temperature superconductivity or nuclear fusion.
+However, these technologies would take a long time to realize into tangible benefit and it's also hard to know what will work out due to the inherent difficulty of research.
+Compared to that, I liked the "instant gratification" of clinical care.
+I wanted my impact to be in a more direct role, even if that meant giving up any chance to invent nuclear fusion or room-temperature superconductivity or some other technology that would have far more postive impact than an individual clinician could.
 
 
 
-As I turned toward medicine, I still kept my same smug attitude regarding the divine hierarchy of knowledge.
+As I began medical school, I still kept my same smug attitude regarding the divine hierarchy of knowledge.
 
 And boy, what we learned in the first couple years of med school was even more cursed than premed biology.
 Some highlights:
 - If you come to the emergency room with an inflamed pancreas, your doctor is mentally running through the possible causes with the acryonym "I GET PPSMASHED".
 - Toll-like receptors in your cells help detect disease-causing microbes. They do not resemble toll booths, though, but instead derive their name from their German discoverer thinking they looked "cool", or, in German, "toll".
-- Do you know what the drug ustekizumab does? Pembrolizumab? Ipilimumab? (Okay, there was *some* effort put into a [naming convention](https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies) for monclonal antibodies)
+- Do you know what the drug *ustekizumab* does? *Pembrolizumab*? *Ipilimumab*? (Okay, there was *some* effort put into a [naming convention](https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies) for monclonal antibodies)
 - Diabetes mellitus (normal diabetes) and diabetes insipidus are totally different problems in the body. Basically the only similarity they have is they cause you to pee a lot, grouping both conditions under the name "diabetes", meaning "siphon" in Greek. Oh, by the way, one distinguishing feature between them is that you have high sugar in your urine in diabetes *mellitus* ("sweet") and low urine sugar in diabetes *insipidus* ("tasteless")
 
 
-It gets to the point where we use a computer flashcard program called Anki to flip through hundreds (some classmates averaged thousands) of cards a day.
+It gets to the point where we med students use a computer flashcard program called Anki to flip through hundreds (some classmates averaged thousands) of cards a day.
 Anki is a (very clever!) spaced repitition software that keeps showing you cards where you failed to guess the answer and saves the ones you're comfortable with for later.
-So you try to "understand" the slides for a bit but then you just start ripping through the Anki deck, trying to guess the blank word in the sentence before flipping to the back and seeing that the answer was *Staphylococcus epidermidis*, not *Staphylococcus saprophyticus*.
+So typically you try to "understand" the slides for a bit but then you just start ripping through the Anki deck, trying to guess the blank word in the sentence before flipping to the back and seeing that the answer was *Staphylococcus epidermidis*, not *Staphylococcus saprophyticus*.
 (Duh!)
 We're basically beaming knowledge into our heads with Factoid Peekaboo for hours every day because there's not a better way to learn this stuff.
 
 
+I've complained about medical knowledge enough by now, so we can move on to the payoff.
 
-It's very annoying to remember that you must avoid aspirin in children due to risk of Reye's syndrome unless they have a blood vessel disease known as Kawasaki disease (not the blood vessel disease called Takayasu arteritis, of course).
-However, this becomes far less of a bother when a concerned parent has brought in their toddler with a persistent fever and skin peeling from their fingers and they look to you.
-Then, the
+It's very annoying to remember that aspirin must be avoided in children due to risk of Reye syndrome unless they have a blood vessel disease known as Kawasaki disease (not that other blood vessel disease called Takayasu arteritis, of course).
+However, this becomes far less of a bother when a concerned parent has brought in their feverish toddler with skin peeling from their fingers and they both look to you for help.
+Then, it's not so bad that there's a funny name here or an exception there.
+In fact, I'm glad that someone noticed this disease and studied it to create a protocol that I can use to help this young child.
+I'm glad studies were done to understand the epidemiology of Kawasaki disease, or how often it occurs, so that I *get to* memorize that it affects ~20 out of 100,000 children.
 
 
 
 
 
+It seems understanding abstruse biochemical pathways is a prerequisite to helping a child with a genetic metabolic disease, and that is surely a Sacred endeavor.
+Is the knowledge required to perform this, then, not sacred itself? But how can memorizing a song about the urea cycle be sacred?
 
 
 
